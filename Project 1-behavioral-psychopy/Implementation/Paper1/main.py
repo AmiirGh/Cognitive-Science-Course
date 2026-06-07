@@ -11,7 +11,7 @@ alphabet_learn = ["の", "ひ", "ま", "り"]
 #_______________________________
 
 
-win = visual.Window(size=(1000, 700), fullscr=False, color='black') # create the window
+win = visual.Window (size=(1000, 700), fullscr=False, color='black') # create the window
 
 write_text_message(win, 'Welcome to the experiment!', 0.1, (0, 0.1), 'white')
 win.flip()
