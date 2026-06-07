@@ -11,7 +11,7 @@ g_Na = 120.0  # maximum sodium conductance (in mS/cm^2)
 g_K = 36.0  # maximum potassium conductance (in mS/cm^2)
 g_Na_t = g_Na
 g_K_t = g_K
-
+    
 
 g_L = 0.3  # leak conductance (in mS/cm^2)
 E_Na = 50.0  # sodium reversal potential (in mV)
