@@ -1,0 +1,1 @@
+Since the data is ore than 2Gb, i did not upload the data to git hub. There fore the files regarding matlab and eeglab is not in this repo
